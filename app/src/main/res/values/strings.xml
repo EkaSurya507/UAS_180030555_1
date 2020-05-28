@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UAS 180030555 1</string>
+
+    <string name="link">Link Negara</string>
+    <string name="tambah">Tambah Negara</string>
+    <string name="edit">Edit Negara</string>
+    <string name="hapus">Hapus Negara</string>
+    <string name="bagikan">Bagikan Negara</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="id_negara">ID Negara</string>
+    <string name="negara">Negara</string>
+    <string name="pemimpin">Pemimpin</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="ibukota">Ibukota</string>
+    <string name="luas">Luas</string>
+    <string name="lagu">Lagu</string>
+    <string name="cover">Bendera Negara</string>
+    <string name="data_negara">Data Negara</string>
+    <string name="sejarah">Sejarah</string>
+</resources>
